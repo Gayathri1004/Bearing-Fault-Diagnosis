@@ -8,7 +8,7 @@ This project aims to classify bearing faults using vibration data from the Pader
 
 ## Dataset
 
-- Paderborn University Bearing Dataset: Vibration signals from healthy and faulty bearings (artificial and real faults) at 64 kHz sampling rate.
+- Paderborn University Bearing Dataset: Vibration signals from healthy and faulty bearings (artificial and real faults) at 64 kHz sampling rates.
 - Classes: Healthy, inner race, outer race, and other faults, with imbalanced sample sizes.
 
 ## Status
