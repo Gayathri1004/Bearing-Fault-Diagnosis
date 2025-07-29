@@ -57,9 +57,9 @@ This repository explores deep learning-based fault classification on two benchma
 - Time-based splitting is essential for realistic evaluation
 
 ## Project Status
-✅ All experiments on CWRU and Paderborn completed
-✅ Confusion matrices, F1 scores, and balanced accuracy evaluated
-🔄 Exploring lightweight CNN variants for deployment scenarios
+- All experiments on CWRU and Paderborn completed ✅
+- Confusion matrices, F1 scores, and balanced accuracy evaluated ✅
+- Exploring lightweight CNN variants for deployment scenarios 🔄
 
 ## Future Scope
 - Ensemble model
